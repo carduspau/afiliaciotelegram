@@ -12,10 +12,10 @@ import pytz
 
 
 mydb = mysql.connector.connect(
-  host="mysql-preuscat.alwaysdata.net",
-  user="preuscat",
-  password="PREUSCAT-AFILIACIO",
-  database="preuscat_afiliacio"
+  host="",
+  user="",
+  password="",
+  database=""
 )
 
 if mydb.is_connected():
