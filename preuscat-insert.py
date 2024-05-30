@@ -30,10 +30,10 @@ llista_negatiu = []
 
 # 0.1 - IDENTIFICACIÓ BASE DE DADES
 mydb = mysql.connector.connect(
-  host="mysql-preuscat.alwaysdata.net",
-  user="preuscat",
-  password="PREUSCAT-AFILIACIO",
-  database="preuscat_afiliacio"
+  host="",
+  user="",
+  password="",
+  database=""
 )
 
 # 0.2 - COMPROVACIÓ DE LA CONNEXIÓ
